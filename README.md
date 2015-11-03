@@ -1,7 +1,7 @@
-Database_Indexing
+Database Indexing
 =================
 
-Database Indexing based on Id, Last_name and State on Employee DataBase
+Database Indexing based on Id, Last Name and State on Employee DataBase
 
 This project involves the creation of a Java program (Database.java) capable of acting a database that can locate records based upon indexes on three (or more) fields.
 The data is a single table of people along with their personal data. The data is provided in a file named us-500.csv. Field attribute names are provided in the first line of the data file.
